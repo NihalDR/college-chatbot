@@ -56,4 +56,6 @@ Feel free to fork the repository and submit pull requests with improvements!
 
 ## License
 This project is licensed under the MIT License. See `LICENSE` for more details.
+## Support
+For any issues,contact nihaldr77@gmail.com
 
