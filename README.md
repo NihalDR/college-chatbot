@@ -50,6 +50,9 @@ Replace the `GEMINI_API_KEY` in `script.js` with your actual API key:
 ```js
 const GEMINI_API_KEY = "your_actual_api_key";
 ```
+## Output
+![Screenshot 2025-02-12 223645](https://github.com/user-attachments/assets/01005986-4412-483e-a40f-1cf5d8378fc6)
+
 
 ## Contributing
 Feel free to fork the repository and submit pull requests with improvements!
