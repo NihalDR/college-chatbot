@@ -1,4 +1,3 @@
-# college-chatbot
 # CMRIT BOT
 
 ## Description
